@@ -1,0 +1,16 @@
+C:\Users\Megan\Dropbox\_Programming\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe.config
+C:\Users\Megan\Dropbox\_Programming\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe
+C:\Users\Megan\Dropbox\_Programming\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.pdb
+C:\Users\Megan\Dropbox\_Programming\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.exe
+C:\Users\Megan\Dropbox\_Programming\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.pdb
+C:\Users\megzi_000\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe.config
+C:\Users\megzi_000\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.exe
+C:\Users\megzi_000\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.pdb
+C:\Users\Megan\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe.config
+C:\Users\Megan\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.exe
+C:\Users\Megan\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.pdb
+C:\Users\Megan\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe
+C:\Users\Megan\Dropbox\_Programming\Assignment 1\WaistHeightCalculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.pdb
+D:\General\GitHub\Waist-to-Height-Calculator\WaistHeightCalculator\bin\Debug\WaistHeightCalculator.exe.config
+D:\General\GitHub\Waist-to-Height-Calculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.exe
+D:\General\GitHub\Waist-to-Height-Calculator\WaistHeightCalculator\obj\Debug\WaistHeightCalculator.pdb
